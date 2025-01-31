@@ -101,8 +101,8 @@ pip install torch tensorflow numpy pandas matplotlib
 ---
 
 ## 📩 Contact  
-📌 **Name**: Adir Gelkop  
-📌 **Email**: [Adirgelkop@gmail.com](mailto:Adirgelkop@gmail.com)  
+📌 **Name**: Ofir cohen  
+📌 **Email**: ofircohen599@gmail.com  
 
 ---
 
